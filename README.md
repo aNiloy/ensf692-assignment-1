@@ -1,3 +1,7 @@
+## Author information
+* Name: Ashim Niloy Orko
+* Favorite inspirational quote: “Every day it gets a little easier… But you gotta do it every day — that’s the hard part. But it does get easier.” - Jogging Baboon from Bojack Horseman
+
 ## 📝 ENSF 692 - Assignment 1 Tasks
 * Open VSCode and start a new terminal. 
 * Edit this `README` file to add your first and last name, and your favourite inspirational quote.
@@ -9,9 +13,6 @@
 * Commit your edited `README` and code files, as well as your two new screenshots.
 * Push your local git history to github: `git push origin master`
 
-## Author information
-* Name: Ashim Niloy Orko
-* Favorite inspirational quote: “Every day it gets a little easier… But you gotta do it every day — that’s the hard part. But it does get easier.” - Jogging Baboon from Bojack Horseman
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
